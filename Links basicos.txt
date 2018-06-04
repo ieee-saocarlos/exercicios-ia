@@ -1,0 +1,3 @@
+Como instalar o python: https://learnpythonthehardway.org/book/ex0.html
+Python online: https://repl.it/languages/python
+Site oficial: https://www.python.org/
