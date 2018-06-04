@@ -1,0 +1,5 @@
+Cada membro deve criar uma pasta com o seu nome completo e
+adicionar todas as tarefas feitas até o momento dentro dessa
+pasta de forma organizada e que seja possível saber qual a 
+lista e o exercício que foi feito. Recomenda-se separar os 
+exercícios de listas diferentes em pastas diferentes
