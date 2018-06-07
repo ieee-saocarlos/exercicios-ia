@@ -633,7 +633,7 @@ def printar_resposta():
 
 def backtracking(k, sudoku):
     if k == len(sudoku_posicoes):
-        completar_sudoku(sudoku)
+        #completar_sudoku(sudoku)
         resposta.append([sudoku[0][0], sudoku[0][1], sudoku[0][2]])
         return 0
     else:
