@@ -112,7 +112,7 @@ def main():
         generation += 1
 
     print(state)
-    print('A última geração foi a de número {}'.format(generation))
+    print('A ultima geracao foi a de numero {}'.format(generation))
     board(parents, state)
 
 if (__name__ == '__main__'):
